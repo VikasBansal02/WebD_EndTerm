@@ -19,6 +19,5 @@
     "mongoose": "^7.1.1",
     "shortid": "^2.2.16"
   },
-  "devDependencies": {},
   "description": ""
 }
